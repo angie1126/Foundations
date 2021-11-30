@@ -1,3 +1,26 @@
-body {
-background: blue;
+.logo {
+  width: 60px;
+}
+
+header li {
+ display:inline;
+}
+
+header a {
+  text-decoration: none;
+}
+
+.first-nav a {
+  font-size: 20px;
+color: #ff4126;
+text-transform: uppercase;
+}
+
+.second-nav a {
+  font-size: 15px;
+  color: #FF9390;
+}
+
+.second-nav img {
+  width: 22px;
 }
