@@ -18,9 +18,13 @@ text-transform: uppercase;
 
 .second-nav a {
   font-size: 15px;
-  color: #FF9390;
+color: #FF9390;
 }
 
 .second-nav img {
   width: 22px;
+}
+
+.aside {
+  color:#FF4F26;
 }
